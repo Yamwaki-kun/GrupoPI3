@@ -3,8 +3,8 @@
 ## Integrantes
 
 <ul>
-  <li>** Arnaldo Victor</li>
-  <li>** Victor Amaral</li>
+  <li>Arnaldo Victor</li>
+  <li>Victor Amaral</li>
 </ul>
 
 
