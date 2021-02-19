@@ -1,5 +1,10 @@
 # GrupoPI3
 
-Integrantes
-Arnaldo Victor
-Victor Amaral
+## Integrantes
+
+<ul>
+  <li>** Arnaldo Victor</li>
+  <li>** Victor Amaral</li>
+</ul>
+
+
