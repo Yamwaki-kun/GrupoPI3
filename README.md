@@ -3,8 +3,9 @@
 ## Integrantes
 
 <ul>
-  <li>Arnaldo Victor</li>
-  <li>Victor Amaral</li>
+  <li><a href="https://github.com/Yamwaki-kun">Arnaldo Victor</a></li>
+  <li><a href="https://github.com/Vitoramaraldsa">Vitor Amaral</a></li>
+  <li><a href="https://github.com/gabyssbarboza">Gabriely Barbosa</a></li>
 </ul>
 
 
